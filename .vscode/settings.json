@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "go.mod": true,
+        "go.sum": true,
+        "LICENSE": true,
+        "README.md": true,
+        ".gitignore": true,
+    }
+}
